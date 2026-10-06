@@ -8,7 +8,7 @@
 
 
 
-clear;clc;format long g;
+clear; clc;format long g;
 
 
 
